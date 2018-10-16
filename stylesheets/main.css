@@ -1,0 +1,14 @@
+
+.combo-box .arrow, .combo-box .arrow-button{
+    -fx-base: transparent;
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+}
+
+.combo-box{
+    -fx-background-color: transparent;
+}
+
+.menu-item:disabled{
+    -fx-opacity: 1.0 ;
+}
